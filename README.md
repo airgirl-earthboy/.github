@@ -8,7 +8,7 @@ Airgirl and Earthboy is a **2D co-op game** inspired by [Fireboy and Watergirl](
 
 ### How to Play
 
-- Use A.W.D to move **Airgirl**
+- Use WASD to move **Airgirl**
 
 - Use arrows to move **Earthboy**
 
